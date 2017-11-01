@@ -11,7 +11,7 @@
 
 **nn_dig_clsfier.py :**
 
-    - This hand written digit recognition is built using a Deep Neural Network. 
+    - This hand written digit recognition is built using a Neural Network. 
     - This is written in Python programming language while making use of various functions provided in Tensorflow.
     - This network works with images of size 28 px * 28 px.
     - The data for both training and testing are the MNIST datasets.
