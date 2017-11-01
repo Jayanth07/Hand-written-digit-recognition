@@ -1,6 +1,7 @@
 # Hand-written-digit-recognition
 
 convl_nn_dig_clsfier.py :
+
     This hand written digit recognition is built using a Convolutional Neural Network. 
     This is written in Python programming language while making use of various functions provided in Tensorflow.
     This network works with images of size 28 px * 28 px.
@@ -9,6 +10,7 @@ convl_nn_dig_clsfier.py :
     "cnn_screenshot_1.png" and "cnn_screenshot_2.png" are the screenshots of its execution.
 
 nn_dig_clsfier.py :
+
     This hand written digit recognition is built using a Deep Neural Network. 
     This is written in Python programming language while making use of various functions provided in Tensorflow.
     This network works with images of size 28 px * 28 px.
